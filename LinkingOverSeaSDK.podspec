@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'LinKingOASDK'
-  s.version          = '1.0.16'
+  s.name             = 'LinkingOverSeaSDK'
+  s.version          = '1.0.1'
   s.summary          = 'LinKingOASDK Europe and America version'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/MrDML/LinKingOASDK'
+  s.homepage         = 'https://github.com/sea2/LinkingOverSeaSDK/tree/master'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'leaon' => 'leaon' }
-  s.source           = { :git => 'https://github.com/MrDML/LinKingOASDK.git', :tag => s.version.to_s }
+  s.author           = { 'sea2' => 'sea2' }
+  s.source           = { :git => 'https://github.com/sea2/LinkingOverSeaSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
