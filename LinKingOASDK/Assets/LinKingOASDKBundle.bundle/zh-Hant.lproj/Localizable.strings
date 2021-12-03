@@ -1,0 +1,76 @@
+/*
+  Localizable.strings
+  LingKingSDK
+
+  Created by leon on 2020/4/22.
+  Copyright © 2020 dml1630@163.com. All rights reserved.
+*/
+"KEY"                     = "繁体中文";
+"Touch To Start" = "點擊開始";
+"I have read and agree" = "我已閱讀並同意";
+"User Agreement" = "用戶協議";
+"Privacy Policy" = "隱私條款";
+"ACCOUNT SETTING" = "賬戶設置";
+"Change"="切換";
+"User ID"="User ID";
+"Link your account"="綁定你的賬號";
+"Log out"="登出";
+"The account is already bound"="該賬號已經綁定";
+"Bind with Facebook or Apple account to save your progress"="與Facebook或Apple帳戶綁定以保存進度";
+"Bind successfully"="綁定成功";
+"Cancel login"="取消登入";
+"OR"="或";
+"LICENSE AGREEMENT"="許可協議";
+"Facebook"="Facebook";
+"Google"="Google";
+"Please check the agreement"="Please check the agreement";
+"Tips"="溫馨提示";
+"Invalid login or account login on other devices"="登入失效或賬號在其它設備登入";
+"Again login"="重新登入";
+"Login Successful"="登入成功";
+"Could not log in. Please check your network connection and try again" = "Could not log in. Please check your network connection and try again";
+"The system version is too low, please upgrade first, continue to use Sign In With Apple"="系統版本過低，請先升級，繼續使用Sign In With Apple";
+"Sign in with Facebook"="通過Facebook登入";
+"Sign in with Apple"="通過Apple登入";
+"Guest Login" = "遊客登入";
+"Other Login" = "其他方式登入";
+"agree"="同意";
+"OK"="確認";
+"Agreement not checked"="未勾選協議";
+"Perfect account"="賬號完善";
+"Dear player, you have not bound your account yet. In order to prevent the loss of game information and other issues, please bind your account as soon as possible."="親愛的玩家，您還沒有綁定賬號，為了防止遊戲信息丟失等問題，請盡快綁定賬號。";
+"Skip for now"="暂时跳过";
+"Account binding"="賬號綁定";
+
+
+"Success"="操作成功";
+"Reset Password Success"="重置密碼成功";
+"Tourist"="遊客";
+"Register"="註冊";
+"Mailbox login"="郵箱登入";
+"Regain"="重新獲取";
+"Verification Code"="驗證碼";
+"Reset"="重置";
+"Forgot password"="忘記密碼";
+"Please enter your email account"="請輸入你的郵箱賬號";
+"Enter verification code"="輸入驗證碼";
+"Set Password"="設置密碼";
+"Set Password again"="再次確認密碼";
+"Already have an account"="已經有賬號";
+"Sing in"="登入";
+"Create an account"="創建賬號";
+"Please enter verification code"="請輸入驗證碼";
+"Please enter password"="请输入密码";
+"Please enter valid password of 6 to 20 characters"="請輸入6到20個字符的有效密碼";
+"The two passwords are different"="兩次輸入密碼不一樣";
+"Don't have an account! Register"="還沒賬號! 註冊";
+"Bind your linking account"="綁定賬號";
+"Choose your platform"="選擇綁定的平台";
+"Mailbox"="郵箱";
+"Apple"="蘋果";
+"Login now"="登入賬號";
+"Login"= "登錄";
+"Binding email"="綁定郵箱";
+"Binding"="綁定";
+"Binding success"="綁定成功";
+

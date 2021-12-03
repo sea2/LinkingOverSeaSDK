@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SDKINFO</key>
+	<dict>
+		<key>CONFIGURL</key>
+		<string>http://php-config-hk.xxyzgame.com/json.php</string>
+		<key>LOGURL</key>
+		<string>http://lk-sdk-error-hk.cn-hongkong.log.aliyuncs.com/logstores/error-ios-log/track</string>
+		<key>VERSION</key>
+		<string>0.2.28</string>
+	</dict>
+</dict>
+</plist>

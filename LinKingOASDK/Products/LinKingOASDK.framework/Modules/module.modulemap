@@ -1,0 +1,6 @@
+framework module LinKingOASDK {
+  umbrella header "LinKingOASDK.h"
+
+  export *
+  module * { export * }
+}
