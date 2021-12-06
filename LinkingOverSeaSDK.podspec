@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LinkingOverSeaSDK'
-  s.version          = '1.0.1'
-  s.summary          = 'LinKingOASDK Europe and America version'
+  s.version          = '1.0.3'
+  s.summary          = 'LinkingOverSeaSDK Europe and America version'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/sea2/LinkingOverSeaSDK/tree/master'
+  s.homepage         = 'https://github.com/sea2/LinkingOverSeaSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sea2' => 'sea2' }
