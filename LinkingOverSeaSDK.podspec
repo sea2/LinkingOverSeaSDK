@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LinkingOverSeaSDK'
-  s.version          = '1.0.5'
+  s.version          = '1.0.6'
   s.summary          = 'LinkingOverSeaSDK America version'
 
 # This description is used to generate tags and improve search results.
@@ -19,6 +19,8 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+"LinkingOverSeaSDK America version"
+"add user date manager"
                        DESC
 
   s.homepage         = 'https://github.com/sea2'
