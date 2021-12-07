@@ -8,20 +8,20 @@
 
 #import <Foundation/Foundation.h>
 
-#import <LinKingOASDK/OAFailScroll.h>
-#import <LinKingOASDK/OACacheCountdown.h>
-#import <LinKingOASDK/OATopWith.h>
-#import <LinKingOASDK/OANotice.h>
-#import <LinKingOASDK/OAWork.h>
-#import <LinKingOASDK/OAOodsYcle.h>
-#import <LinKingOASDK/OAFloatOods.h>
-#import <LinKingOASDK/OAOk.h>
-#import <LinKingOASDK/OACache.h>
-#import <LinKingOASDK/OANotice.h>
-#import <LinKingOASDK/OAOodsGray.h>
-#import <LinKingOASDK/OAAd.h>
-#import <LinKingOASDK/OACacheScroll.h>
-#import <LinKingOASDK/OATop.h>
-#import <LinKingOASDK/OAApiEntity.h>
-#import <LinKingOASDK/OAScreen.h>
+#import <LinKingOASDK/LESDKManager.h>
+#import <LinKingOASDK/LEOauthManager.h>
+#import <LinKingOASDK/LEUser.h>
+#import <LinKingOASDK/LEAFManager.h>
+#import <LinKingOASDK/LEIronSourceAdManager.h>
+#import <LinKingOASDK/LEFacebookAdManager.h>
+#import <LinKingOASDK/LEPointManager.h>
+#import <LinKingOASDK/LEAdManager.h>
+#import <LinKingOASDK/LEFBAnalyticsManager.h>
+#import <LinKingOASDK/LEAFManager.h>
+#import <LinKingOASDK/LEApplePayManager.h>
+#import <LinKingOASDK/LEGoods.h>
+#import <LinKingOASDK/LEFBShareManager.h>
+#import <LinKingOASDK/LEAppleProduct.h>
+#import <LinKingOASDK/LKLog.h>
+#import <LinKingOASDK/LEThirdLog.h>
 

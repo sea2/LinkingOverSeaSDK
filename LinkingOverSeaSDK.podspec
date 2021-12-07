@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LinkingOverSeaSDK'
-  s.version          = '1.0.6'
+  s.version          = '1.0.7'
   s.summary          = 'LinkingOverSeaSDK America version'
 
 # This description is used to generate tags and improve search results.
@@ -36,22 +36,30 @@ TODO: Add long description of the pod here.
 
   s.vendored_frameworks = "LinKingOASDK/Products/LinKingOASDK.framework"
   s.resources = "LinKingOASDK/Assets/*.*"
-  s.dependency 'IQKeyboardManager', '~> 6.5.5'
-  s.dependency 'TPKeyboardAvoiding', '~> 1.3.4'
-  s.dependency 'FBSDKLoginKit', '~> 11.0.1'
-  s.dependency 'FBSDKShareKit', '~> 11.0.1'
-  s.dependency 'AppsFlyerFramework', '~> 6.4.0'
-  s.dependency 'SDWebImage', '>= 5.0.0'
-  s.dependency 'Toast', '~> 4.0.0'
-  s.dependency 'AFNetworking', '~> 4.0.1'
-  s.dependency 'IronSourceSDK','7.1.10.0'
-  s.dependency 'IronSourceAdMobAdapter','4.3.27.0'
-  s.dependency 'IronSourceFacebookAdapter','4.3.29.0'
-  s.dependency 'IronSourcePangleAdapter','4.3.8.0'
-  s.dependency 'IronSourceUnityAdsAdapter','4.3.14.0'
-  s.dependency 'IronSourceTapjoyAdapter','4.1.18.0'
-  s.dependency 'IronSourceAdColonyAdapter','4.3.11.0'
-  s.dependency 'IronSourceVungleAdapter','4.3.13'
+         s.dependency 'IQKeyboardManager', '~> 6.5.5'
+        s.dependency 'TPKeyboardAvoiding', '~> 1.3.4'
+        s.dependency 'FBSDKLoginKit', '~> 12.1.0'
+        s.dependency 'FBSDKShareKit', '~> 12.1.0'
+        s.dependency 'AppsFlyerFramework', '~> 6.4.3'
+#        s.dependency 'Beta-AppsFlyerFramework', '~> 6.0.2.174'
+        s.dependency 'SDWebImage', '>= 5.0.0'
+        s.dependency 'Toast', '~> 4.0.0'
+        s.dependency 'AFNetworking', '~> 4.0.1'
+#        s.dependency 'FBAudienceNetwork', '~> 6.5.1'
+#        s.dependency 'IronSourceSDK','7.1.5.1.0'
+#        s.dependency 'IronSourceAdMobAdapter','4.3.23.0'
+#        s.dependency 'IronSourcePangleAdapter','4.3.3.1'
+#        s.dependency 'IronSourceFacebookAdapter','4.3.26'
+        s.dependency 'IronSourceSDK','7.1.12.0'
+        s.dependency 'IronSourceAdMobAdapter','4.3.28.0'
+        s.dependency 'IronSourceFacebookAdapter','4.3.32.0'
+        s.dependency 'IronSourcePangleAdapter','4.3.9.1'
+        s.dependency 'IronSourceUnityAdsAdapter','4.3.17.0'
+        s.dependency 'IronSourceTapjoyAdapter','4.1.18.3'
+        s.dependency 'IronSourceAdColonyAdapter','4.3.11.3'
+        s.dependency 'IronSourceVungleAdapter','4.3.15.0'
+
+
 
   s.xcconfig = {
       'VALID_ARCHS' =>  'arm64 x86_64 armv7',
