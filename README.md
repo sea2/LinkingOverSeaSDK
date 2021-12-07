@@ -1,4 +1,4 @@
-# LinKingOASDK
+# LinkingOverSeaSDK
 
 [![CI Status](https://img.shields.io/travis/dml1630@163.com/LinKingOASDK.svg?style=flat)](https://travis-ci.org/dml1630@163.com/LinKingOASDK)
 [![Version](https://img.shields.io/cocoapods/v/LinKingOASDK.svg?style=flat)](https://cocoapods.org/pods/LinKingOASDK)
@@ -17,7 +17,7 @@ LinKingOASDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'LinKingOASDK'
+pod 'LinkingOverSeaSDK'
 ```
 
 ## Author
