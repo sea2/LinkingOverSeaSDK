@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface LEMorePayView : UIView
 @property (weak, nonatomic) IBOutlet UIButton *button_google;
 @property (weak, nonatomic) IBOutlet UIButton *button_paypal;
-@property (weak, nonatomic) IBOutlet UIButton *button_close;
+//@property (weak, nonatomic) IBOutlet UIButton *button_close;
 // 10 Google 20 paypal
 @property (nonatomic, copy) void(^payMoreEvent)(NSInteger tag);
 @property (nonatomic, copy) void(^closeViewEvent)(void);

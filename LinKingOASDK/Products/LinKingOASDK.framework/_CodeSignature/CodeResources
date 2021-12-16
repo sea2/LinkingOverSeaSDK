@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		jh5ZHj6uKHPXquOa71XcJCtIddA=
+		</data>
 		<key>APMInsightCore.bundle/APMInsightInfo.plist</key>
 		<data>
 		jWXrQ2u3jdczzc4fqCC/xAbeC5I=
@@ -248,6 +252,10 @@
 		<data>
 		jiVpJ0bjfaP3Zdx6w8Xz0pn1ZtY=
 		</data>
+		<key>Headers/LEChangeView.h</key>
+		<data>
+		cDZRLKFooOBd6Q2aFPKvvR1zde8=
+		</data>
 		<key>Headers/LEEmailApi.h</key>
 		<data>
 		Bn+g4hs+kqtMI5YS9iEuEWQuD9c=
@@ -322,7 +330,7 @@
 		</data>
 		<key>Headers/LEMorePayView.h</key>
 		<data>
-		V01vqGQzKw4GiVuclks6GAvlePE=
+		b4QuDHhBG9yMmBKRykXkHoWIzqU=
 		</data>
 		<key>Headers/LENetUtils.h</key>
 		<data>
@@ -476,6 +484,10 @@
 		<data>
 		GoazuDyHJ9MzDzvTyDRRx2opCGk=
 		</data>
+		<key>Headers/LEView.h</key>
+		<data>
+		4EQYb8MJkcly8J7homwON1Phb4k=
+		</data>
 		<key>Headers/LEWebPayViewController.h</key>
 		<data>
 		ShgsLMxYjykxEw/IDR6FqfkNon8=
@@ -580,6 +592,18 @@
 		<data>
 		O7EnTA1mr+q9lq0ZZW2UJvNkQcg=
 		</data>
+		<key>LEChangPayView.nib</key>
+		<data>
+		ekf/O9b1zGkL666nvavjCjY6EdI=
+		</data>
+		<key>LEChangeView.nib/objects-11.0+.nib</key>
+		<data>
+		mxZBJ7vQH+PoBllWehEsdBtdYPM=
+		</data>
+		<key>LEChangeView.nib/runtime.nib</key>
+		<data>
+		rHmhY0vWUwHP4kXxfUczDX6i6Ik=
+		</data>
 		<key>LELoginView.nib/objects-11.0+.nib</key>
 		<data>
 		Nysn0hcJEehTxiVGeobQ16vdUWQ=
@@ -598,11 +622,11 @@
 		</data>
 		<key>LEMorePayView.nib/objects-11.0+.nib</key>
 		<data>
-		07ibgR7pgNh7ghx22/xQEMmLfnc=
+		nXCm7szppTio4EbpMDpf+zsRVHk=
 		</data>
 		<key>LEMorePayView.nib/runtime.nib</key>
 		<data>
-		Yk5IjyPFVmd3eJIW04qEAn9e0mE=
+		1fgFdzOhN6ZPbJtSanl8/dhiS9U=
 		</data>
 		<key>LEOABindEmailView.nib/objects-11.0+.nib</key>
 		<data>
@@ -652,93 +676,149 @@
 		<data>
 		tP1+cSejHDG6gbk88wo5fwCyvk4=
 		</data>
+		<key>LEView.nib/objects-11.0+.nib</key>
+		<data>
+		QV02kWJQrYtXzEaoa/AM4ky4p7A=
+		</data>
+		<key>LEView.nib/runtime.nib</key>
+		<data>
+		ugfkIXs6kPPIMl/W+QzQyf9hlyo=
+		</data>
 		<key>LICENSE</key>
 		<data>
 		Va1S8wKLCXt3oMK2dBq2DQ6Myjk=
 		</data>
 		<key>LinKingOASDKBundle.bundle/Info.plist</key>
 		<data>
-		HDTE+y/LCNhX/ISSEpYmm9u0q20=
+		P9pEXcgLptjSy/p2T2nH0Sn5DaA=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEAccountCenterView.nib</key>
 		<data>
-		VCQv1Urz9dRdfw1qhtjgIa0GUJU=
+		6mDkQ97tftY7/PHetxeNFmlAQQI=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEAlertView.nib/objects-11.0+.nib</key>
 		<data>
-		OtHw5cADI00im7cbLjSh678qbyc=
+		ZiDgcYdnDOolu/h1lW9OCBd5WYA=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEAlertView.nib/runtime.nib</key>
 		<data>
-		mWZXX8IbtM3h2adTISacQaUQGZA=
+		GZmyF0VHy7IcrtWcIH3vD64BKRA=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEBindingView.nib</key>
 		<data>
-		DbiYF/1/RvT9cAl8+b2QnbRarg0=
+		O7EnTA1mr+q9lq0ZZW2UJvNkQcg=
+		</data>
+		<key>LinKingOASDKBundle.bundle/LEChangeView.nib</key>
+		<data>
+		TMedBwfUKhDt3uBlEsPTkbcB4ik=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LELoginView.nib/objects-11.0+.nib</key>
 		<data>
-		Gh55CvN8QBjHTjLyPVvC70Fn7tY=
+		Nysn0hcJEehTxiVGeobQ16vdUWQ=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LELoginView.nib/runtime.nib</key>
 		<data>
-		H8fjZqmgN7h9MG1Q+lvSEKGaqZU=
+		BerOMNMZCDSMWk6a0EHjrYCPmIo=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEMatrixView.nib/objects-11.0+.nib</key>
 		<data>
-		ucs8WoMnhZrGaoiZwD/e0AADuE4=
+		M295c4xVvZsEIhuz+Gh3B3sjJwU=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEMatrixView.nib/runtime.nib</key>
 		<data>
-		x4+R4tSxBJCskopFhfl6jnI3X6g=
+		RvKiaG/DsKQex3U8NKsaaKPWL/Q=
+		</data>
+		<key>LinKingOASDKBundle.bundle/LEMorePayView.nib/objects-11.0+.nib</key>
+		<data>
+		76siLFvyvk8JXF4/eGlxjpkFf/I=
+		</data>
+		<key>LinKingOASDKBundle.bundle/LEMorePayView.nib/runtime.nib</key>
+		<data>
+		utHSA2nZOSozfKoMCYtfY9ZzdQk=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOABindEmailView.nib/objects-11.0+.nib</key>
 		<data>
-		8226Ri3UvFB63SIveO7k+nDzxMo=
+		40iBfz7XihnY6z/Dyy8egCWHToE=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOABindEmailView.nib/runtime.nib</key>
 		<data>
-		DVYTNvlajfvKqDcwfxJyetyT0LQ=
+		ZBtwWMbtRUBw6/0mOurBVLP5CAg=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOABindView.nib</key>
 		<data>
-		WhPl3UAbs0y7PCLkecdoGJjZUc0=
+		8SdvKs7njnPPpysKPu4YGJPYTUg=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOAEmailRegisterView.nib</key>
 		<data>
-		1jkJUogrnIUbPwOF1l602lVg24A=
+		KjEqW6pbnZg7GMvZOFXWa1v/WjY=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOAForgetPasswordView.nib/objects-11.0+.nib</key>
 		<data>
-		KBCQpGlwj490cH2HKpd+/eJWVvo=
+		O0mASfkEFWMQXDrL/W0D/Df6upg=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOAForgetPasswordView.nib/runtime.nib</key>
 		<data>
-		XsV5QSzSamA3mibcwmmvqOUF7dA=
+		OZRzBKe3/8OxjYKW/fxJ03HO3pk=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOALoginView.nib/objects-11.0+.nib</key>
 		<data>
-		lN4VzbvAVHHWuorhL0COytQ6xIg=
+		cp929PF/K/S5SDGQ1kbhYfgV1VI=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOALoginView.nib/runtime.nib</key>
 		<data>
-		herICTOM4KTJUdPUyAAqDZ/oho0=
+		Q/tefP/NAJGASy9DEFHKqi4lbNY=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOAemailLoginView.nib/objects-11.0+.nib</key>
 		<data>
-		lA7umUzEt6wt+fOV1kusiJAVVPE=
+		kfgMXn95WhVvZsgBgpkwgRVaMzI=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEOAemailLoginView.nib/runtime.nib</key>
 		<data>
-		bul1v8mjv1pOANWm3FK4k6/Ms/I=
+		P64ckmAFRgeztOYBVL7P1PQBQJY=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEUseAgreementView.nib</key>
 		<data>
-		h7PagQDnY/pd71c/KE+otvakyX4=
+		BwyA+2wPNNwcTShtO5Pj0EIgc34=
 		</data>
 		<key>LinKingOASDKBundle.bundle/LEUserCenterView.nib</key>
 		<data>
-		VBByHjXCrRpK3NI2D5k0qhNlQb8=
+		tP1+cSejHDG6gbk88wo5fwCyvk4=
+		</data>
+		<key>LinKingOASDKBundle.bundle/LinKingOASDKBundle</key>
+		<data>
+		fYWngQZfRXVmYVg8jHuujbz82rQ=
+		</data>
+		<key>LinKingOASDKBundle.bundle/Paypal.png</key>
+		<data>
+		cInzuARBM4oXVNfYkWoQ09K8Txw=
+		</data>
+		<key>LinKingOASDKBundle.bundle/Paypal@2x.png</key>
+		<data>
+		Xq1YAc6AEqOWROqxS2OZI+pY41w=
+		</data>
+		<key>LinKingOASDKBundle.bundle/Paypal@3x.png</key>
+		<data>
+		ku9lLiJKz+3ERtwxnDSFuTbLKug=
+		</data>
+		<key>LinKingOASDKBundle.bundle/View.nib</key>
+		<data>
+		Gi6ud7lSmxB2zuTE4Is3DG7paE4=
+		</data>
+		<key>LinKingOASDKBundle.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		dObY59a+vo4u17cXYzlEgZnQOP8=
+		</data>
+		<key>LinKingOASDKBundle.bundle/apple-pay.png</key>
+		<data>
+		5DGxzsSZ1+3UpsAPEi5KzQ0/VzM=
+		</data>
+		<key>LinKingOASDKBundle.bundle/apple-pay@2x.png</key>
+		<data>
+		B1iiKq7+9ErS1jTlr+qdzz7FM+0=
+		</data>
+		<key>LinKingOASDKBundle.bundle/apple-pay@3x.png</key>
+		<data>
+		AdTu4hrg7sqwHzdBqfnar4ysKe0=
 		</data>
 		<key>LinKingOASDKBundle.bundle/appleBindBg@2x.png</key>
 		<data>
@@ -747,6 +827,10 @@
 		<key>LinKingOASDKBundle.bundle/apple_2021_04_04.png</key>
 		<data>
 		Abi1k2vOB2RqImUTC+9zxACrvqQ=
+		</data>
+		<key>LinKingOASDKBundle.bundle/apple_2021_04_04@2x.png</key>
+		<data>
+		Az9g3aRVcmdE8wGaucK4X0Omagc=
 		</data>
 		<key>LinKingOASDKBundle.bundle/apple_2021_04_04@3x.png</key>
 		<data>
@@ -856,6 +940,10 @@
 		<key>LinKingOASDKBundle.bundle/checkmark@2x.png</key>
 		<data>
 		lDOBl0vqZSpNZUBtTgYnJPceOwk=
+		</data>
+		<key>LinKingOASDKBundle.bundle/checkmark@3x.png</key>
+		<data>
+		4gY/rcsjBfC6CvL3w69+JLxCAv0=
 		</data>
 		<key>LinKingOASDKBundle.bundle/closeAlter.png</key>
 		<data>
@@ -1048,15 +1136,15 @@
 		</data>
 		<key>LinKingOASDKBundle.bundle/google_icon_small.png</key>
 		<data>
-		TAnimRnOgyo/0gxfDjI37ahbJWk=
+		9iTelcZKz3HYF8QqHVwKv31mfmk=
 		</data>
 		<key>LinKingOASDKBundle.bundle/google_icon_small@2x.png</key>
 		<data>
-		XRwDUpygB6Pjh4SwlN4Ssmbz1iY=
+		6OHzmzX3cQHHjUgA8Y5LhFCXt54=
 		</data>
 		<key>LinKingOASDKBundle.bundle/google_icon_small@3x.png</key>
 		<data>
-		DNf9gQW/XgaFTGhPpUnNd2/eGOQ=
+		UNq/2g/boGWlGRIEVyMmXx5QXOM=
 		</data>
 		<key>LinKingOASDKBundle.bundle/green_bg.png</key>
 		<data>
@@ -1085,6 +1173,10 @@
 		<key>LinKingOASDKBundle.bundle/leftArrow.png</key>
 		<data>
 		Lt29qAxsHgFzofHvaCCPFlmTPC4=
+		</data>
+		<key>LinKingOASDKBundle.bundle/leftArrow@2x.png</key>
+		<data>
+		Xjel8sD0YHGUiyiKBBFeKZAyTq8=
 		</data>
 		<key>LinKingOASDKBundle.bundle/leftArrow@3x.png</key>
 		<data>
@@ -1234,9 +1326,21 @@
 		<data>
 		QY1qxw7BYs0cCZLGlNLtc2JkiJM=
 		</data>
+		<key>LinKingOASDKBundle.bundle/topTitleBg@3x.png</key>
+		<data>
+		MIXVZjkTFryLob4d6x1PNfmIN1U=
+		</data>
+		<key>LinKingOASDKBundle.bundle/tourists.png</key>
+		<data>
+		/7Xi5D+GkaNXP8zxsjhbRQ0pfio=
+		</data>
 		<key>LinKingOASDKBundle.bundle/tourists@2x.png</key>
 		<data>
 		AIZTiGl9+Dt4p1xFYHULTSz9L98=
+		</data>
+		<key>LinKingOASDKBundle.bundle/tourists@3x.png</key>
+		<data>
+		EE9JiCRq7Hc/H5sZ7uMaOfAKq+U=
 		</data>
 		<key>LinKingOASDKBundle.bundle/ver_code.png</key>
 		<data>
@@ -1249,6 +1353,10 @@
 		<key>LinKingOASDKBundle.bundle/ver_code@3x.png</key>
 		<data>
 		PdHDRSFK9ZFK247P4LAUj4V9FKU=
+		</data>
+		<key>LinKingOASDKBundle.bundle/yellow_bg.png</key>
+		<data>
+		rekuuIXVwFjzmKOFMXCYGw6uR4U=
 		</data>
 		<key>LinKingOASDKBundle.bundle/yellow_bg@2x.png</key>
 		<data>
@@ -1766,6 +1874,17 @@
 			rOBt0ZKkSOxOhaTU6xr1gJi8HJQIAQR8f0WTOiy9jJM=
 			</data>
 		</dict>
+		<key>Headers/LEChangeView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cDZRLKFooOBd6Q2aFPKvvR1zde8=
+			</data>
+			<key>hash2</key>
+			<data>
+			XGW0FcZi1ma5+8ZtPk+RJRLyU4+5dU0ocxZHjD7JpWk=
+			</data>
+		</dict>
 		<key>Headers/LEEmailApi.h</key>
 		<dict>
 			<key>hash</key>
@@ -1968,11 +2087,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V01vqGQzKw4GiVuclks6GAvlePE=
+			b4QuDHhBG9yMmBKRykXkHoWIzqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IXRvp01sGFiGUoyCz7RM0mwAzV4zO8Mai2tK7JP06EA=
+			huaTMENkcsG55mlHMTnvDdTH4E8Xbe/3Rr+Pt+7W1h8=
 			</data>
 		</dict>
 		<key>Headers/LENetUtils.h</key>
@@ -2393,6 +2512,17 @@
 			t2Li7OfGGEGMBjr9t/4paurtPUSyCInyRMQWoOLuZP4=
 			</data>
 		</dict>
+		<key>Headers/LEView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4EQYb8MJkcly8J7homwON1Phb4k=
+			</data>
+			<key>hash2</key>
+			<data>
+			wJ/IeNMRZ0DcS+RHHkmilNZTEzaVh/kuWnI82GBC8Do=
+			</data>
+		</dict>
 		<key>Headers/LEWebPayViewController.h</key>
 		<dict>
 			<key>hash</key>
@@ -2668,6 +2798,39 @@
 			dd/feQi7OS7TZrfHrr6xLvgSrHgObtyi+vbu/G8bOcc=
 			</data>
 		</dict>
+		<key>LEChangPayView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ekf/O9b1zGkL666nvavjCjY6EdI=
+			</data>
+			<key>hash2</key>
+			<data>
+			AXUcj0ArXIaaI5YDPOpe/yUlZfLd+X/7ZW6hsFJBsSI=
+			</data>
+		</dict>
+		<key>LEChangeView.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mxZBJ7vQH+PoBllWehEsdBtdYPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			fMVpqTF3pkDqHHp6tyvp3mQhsO7+bq1wiWFJ8U+tLq4=
+			</data>
+		</dict>
+		<key>LEChangeView.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rHmhY0vWUwHP4kXxfUczDX6i6Ik=
+			</data>
+			<key>hash2</key>
+			<data>
+			/xWU5mMYrUrpGabjbwpMrOK/RLsqkY9Ui958v5Fy6kE=
+			</data>
+		</dict>
 		<key>LELoginView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
@@ -2716,22 +2879,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			07ibgR7pgNh7ghx22/xQEMmLfnc=
+			nXCm7szppTio4EbpMDpf+zsRVHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			KzlWx+ZQhzfAxfjb7sQuu859wR5bDJeUXLgcRTgHzms=
+			8oZkA6SR1RhKHMEvH8tzmR/7nwWJXErBIMcah6OXC3c=
 			</data>
 		</dict>
 		<key>LEMorePayView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Yk5IjyPFVmd3eJIW04qEAn9e0mE=
+			1fgFdzOhN6ZPbJtSanl8/dhiS9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			pITKOswGsb+vTTNQkNEKF3c5adXDjD9jsAxUPbm+rHs=
+			GWhkij2bssKE11SNmDBJSdC2QPK0YbZtRkOtCignzFQ=
 			</data>
 		</dict>
 		<key>LEOABindEmailView.nib/objects-11.0+.nib</key>
@@ -2866,6 +3029,28 @@
 			EqSf6daqauxeCVBxnK6iGPmtg7VJ1fG0YFV/Pw5qZec=
 			</data>
 		</dict>
+		<key>LEView.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QV02kWJQrYtXzEaoa/AM4ky4p7A=
+			</data>
+			<key>hash2</key>
+			<data>
+			qHFnPoodN/jJwC5iKZxtt0LngqsVoe0gyLTOmNJ6wps=
+			</data>
+		</dict>
+		<key>LEView.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ugfkIXs6kPPIMl/W+QzQyf9hlyo=
+			</data>
+			<key>hash2</key>
+			<data>
+			0/Cw1yYto//bN7BPw8s1RU4ndi03bnJ9pbqNheKNEFk=
+			</data>
+		</dict>
 		<key>LICENSE</key>
 		<dict>
 			<key>hash</key>
@@ -2881,231 +3066,363 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HDTE+y/LCNhX/ISSEpYmm9u0q20=
+			P9pEXcgLptjSy/p2T2nH0Sn5DaA=
 			</data>
 			<key>hash2</key>
 			<data>
-			VVK0c1/vnfbTIo4dd7V2o3BhCw6sGg+4f/GColDcvaI=
+			52vZ4Leq82Fl/zD8slWh/9R+z821tCZmbK0JlzF3NS0=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEAccountCenterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VCQv1Urz9dRdfw1qhtjgIa0GUJU=
+			6mDkQ97tftY7/PHetxeNFmlAQQI=
 			</data>
 			<key>hash2</key>
 			<data>
-			K3gocLse+/RfZDm/4I/nCeYCxB1sf+SAeii0wnMH5hU=
+			fcBPzld/DvI+IFdL8GeNiFXc4n1JYoR3ori+NfdEYpo=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEAlertView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OtHw5cADI00im7cbLjSh678qbyc=
+			ZiDgcYdnDOolu/h1lW9OCBd5WYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xj95+OxNm64+S/qahhwTe6Mnc4AHgSBqAjsArc08ufs=
+			qJVw7Qn0Bs6x6x1TL0FzWxu/pq9LWP5p7CGc6y8IqzE=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEAlertView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mWZXX8IbtM3h2adTISacQaUQGZA=
+			GZmyF0VHy7IcrtWcIH3vD64BKRA=
 			</data>
 			<key>hash2</key>
 			<data>
-			hL0pa0YjenHDllTmHUjXTItM+njGu/O0AvvmeC5u3Qk=
+			KjJ1x0UPhcBzwG3rWu9bl2ZoklZHCpxw8PbE4+1NruU=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEBindingView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DbiYF/1/RvT9cAl8+b2QnbRarg0=
+			O7EnTA1mr+q9lq0ZZW2UJvNkQcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			fphrRYFDkXUZ0o5xnZ1rZhspllP+AyMGBg8r3lPT1iI=
+			dd/feQi7OS7TZrfHrr6xLvgSrHgObtyi+vbu/G8bOcc=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/LEChangeView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TMedBwfUKhDt3uBlEsPTkbcB4ik=
+			</data>
+			<key>hash2</key>
+			<data>
+			YsyjiWiZIkDWVvYCRXB6TkQ5UPz7ikcwppKE8esp/QA=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LELoginView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gh55CvN8QBjHTjLyPVvC70Fn7tY=
+			Nysn0hcJEehTxiVGeobQ16vdUWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ve2vv0adBBU7zi6B8j2tmd+atdKxo3wp4Hp/JERSvXk=
+			n7qWMc6Zw9A9uqpMX8EJStZ2uMISbB4fR6UCqcflP1A=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LELoginView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H8fjZqmgN7h9MG1Q+lvSEKGaqZU=
+			BerOMNMZCDSMWk6a0EHjrYCPmIo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ljs3AkSwOYv7V+HkFyJrZshA/J623YAjkC3bwNR0nTY=
+			J/7zg+6m1vKqBKFDVyNYwpgn/Zunnglj4cqvWadAFA0=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEMatrixView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ucs8WoMnhZrGaoiZwD/e0AADuE4=
+			M295c4xVvZsEIhuz+Gh3B3sjJwU=
 			</data>
 			<key>hash2</key>
 			<data>
-			F1lXGtrcJba50FxfbivJpwvtMHBSg+VzMm4l90ShZu8=
+			YGf+Zn+6Itd7f6ZKCcBWefHAip9frztsm5dDSB6zkGQ=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEMatrixView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x4+R4tSxBJCskopFhfl6jnI3X6g=
+			RvKiaG/DsKQex3U8NKsaaKPWL/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			D206aRiDhh8/rJM3I+IFLxk3KCtVaV4jXCwxiwSl3Q4=
+			meg4WBa/mOCC6HdAUNXs+YoZE5zO6UKm+oevkztdEjQ=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/LEMorePayView.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			76siLFvyvk8JXF4/eGlxjpkFf/I=
+			</data>
+			<key>hash2</key>
+			<data>
+			+twjcG61SeLLmgtcVGso9PBBa/Ehh1O1xOn5JBL3vWc=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/LEMorePayView.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			utHSA2nZOSozfKoMCYtfY9ZzdQk=
+			</data>
+			<key>hash2</key>
+			<data>
+			oJOJkV4/N92+f4iDRiTbWbpsmgAQ7ey5v188bIYhVDc=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOABindEmailView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8226Ri3UvFB63SIveO7k+nDzxMo=
+			40iBfz7XihnY6z/Dyy8egCWHToE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yjwk+eP/FVQbSlHvJmh5DipbCRnQ9DxJsbOvQaKtVeQ=
+			ZtWLmKjRD/kmmDp4tBCi51+qX6iS08logfnS7gSE3nw=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOABindEmailView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DVYTNvlajfvKqDcwfxJyetyT0LQ=
+			ZBtwWMbtRUBw6/0mOurBVLP5CAg=
 			</data>
 			<key>hash2</key>
 			<data>
-			pU73KPuJfMGC4fg/kCII4P6DBD5HdxKkGdW6k9rKFwA=
+			MYKgHt07GsEKaBe5Nl0DuQmKdzbXSYrXJUSIeqe/91Q=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOABindView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WhPl3UAbs0y7PCLkecdoGJjZUc0=
+			8SdvKs7njnPPpysKPu4YGJPYTUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			qy8XZmHHBejp9m7ZhQTPRhXAy4lwMUo+bwByZOkzIkg=
+			abd8/R8Z+2zsR5vxogD6f89v6HhBWt/n3XzAmmkyOVI=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOAEmailRegisterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1jkJUogrnIUbPwOF1l602lVg24A=
+			KjEqW6pbnZg7GMvZOFXWa1v/WjY=
 			</data>
 			<key>hash2</key>
 			<data>
-			HY1+gkbp0eimxvnEVaNQ68+tha1Qn+EkgUqaIHPW7cY=
+			bKxV+mgdM3c/xC9ZPg0ace5lSzps1wH1LoA7EAuUTig=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOAForgetPasswordView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KBCQpGlwj490cH2HKpd+/eJWVvo=
+			O0mASfkEFWMQXDrL/W0D/Df6upg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pmbi8tj2wHDpnPM6+sKxVm5GsPAUuUJ2ZlBLIKfnhnE=
+			2a7fN3R4VDWJV5R1tgV03UXcAZpV1GIa7HID9pIz+Sw=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOAForgetPasswordView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XsV5QSzSamA3mibcwmmvqOUF7dA=
+			OZRzBKe3/8OxjYKW/fxJ03HO3pk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z+EUcgrU9Vx7PxL51MuF6eTMunVDoBg+izzbYqmLPeA=
+			5nHZc7ndrR928jOsXGqdj0HPNZPJZe3tF6n1kx/UOMc=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOALoginView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lN4VzbvAVHHWuorhL0COytQ6xIg=
+			cp929PF/K/S5SDGQ1kbhYfgV1VI=
 			</data>
 			<key>hash2</key>
 			<data>
-			02aA5uoqufL/bBZzeOl+QNCyod/qAW34Z1NfURikcQs=
+			VXIaRUm6Lk0NKGlY+CFJV4J8ft6J7FjhD9M8LrT3wjk=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOALoginView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			herICTOM4KTJUdPUyAAqDZ/oho0=
+			Q/tefP/NAJGASy9DEFHKqi4lbNY=
 			</data>
 			<key>hash2</key>
 			<data>
-			I1FWGfnpH23XNDlfJwtsh/Js7DrsPIfApQTYBZ3hbjo=
+			65w2i3aktl7FX+D+4uBXgRYi20dDMgwucAkdWVm3XEw=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOAemailLoginView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lA7umUzEt6wt+fOV1kusiJAVVPE=
+			kfgMXn95WhVvZsgBgpkwgRVaMzI=
 			</data>
 			<key>hash2</key>
 			<data>
-			kVCUN+3sf4NM8YKY3eRcDoPm6d2GKc9zVtb4d4ZiF1o=
+			383jR54QgbQz8pI1ZJfn7SfzdIMmlMRWtBwXhTl7T1U=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEOAemailLoginView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bul1v8mjv1pOANWm3FK4k6/Ms/I=
+			P64ckmAFRgeztOYBVL7P1PQBQJY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kwPadNJzLcjMeKM7usFZfAWpeeiKCVc9ENvgZwyL2gw=
+			KlHrHwgcXCxp3AkRirhsRw64nVLkPJdHneyo3xU+oOU=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEUseAgreementView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h7PagQDnY/pd71c/KE+otvakyX4=
+			BwyA+2wPNNwcTShtO5Pj0EIgc34=
 			</data>
 			<key>hash2</key>
 			<data>
-			g5d95LpQ2bWZZbtG6C/blgh40Qb3uUYxu+j8zm6nw3Y=
+			HgBE8SWFTROJ1vydkC7xwp3oG0JlZhdlJr52gdf485Q=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/LEUserCenterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VBByHjXCrRpK3NI2D5k0qhNlQb8=
+			tP1+cSejHDG6gbk88wo5fwCyvk4=
 			</data>
 			<key>hash2</key>
 			<data>
-			80tgOsO61PhxIARitlYoeZVp3D90VVTyfWOwKW5ZiOA=
+			EqSf6daqauxeCVBxnK6iGPmtg7VJ1fG0YFV/Pw5qZec=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/LinKingOASDKBundle</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fYWngQZfRXVmYVg8jHuujbz82rQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			oGEoV+3OvIg9sppJDcjQzZ85P+pIGBcTJ60zlzGVZ0Y=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/Paypal.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cInzuARBM4oXVNfYkWoQ09K8Txw=
+			</data>
+			<key>hash2</key>
+			<data>
+			8AiW08/jgLxIG70DXehnK+TvVGK1A/+1ivdIXFeq9To=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/Paypal@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xq1YAc6AEqOWROqxS2OZI+pY41w=
+			</data>
+			<key>hash2</key>
+			<data>
+			AIPSburlvL9gjYAFeT9f9i8dc16hajlAhao6mprLgB4=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/Paypal@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ku9lLiJKz+3ERtwxnDSFuTbLKug=
+			</data>
+			<key>hash2</key>
+			<data>
+			hYVua7XQByG6PCGAmM0hANgwWRyLvNdj+LEtDuKtYFk=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/View.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gi6ud7lSmxB2zuTE4Is3DG7paE4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ck8+9VKQUio3PuzoHSMmeDJkOz6QsPc98JTZ1fsHYq8=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dObY59a+vo4u17cXYzlEgZnQOP8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pm2VTC0kE+ICG7bYEagJU5nEZ6aqABAH6KreeACuU2Y=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/apple-pay.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5DGxzsSZ1+3UpsAPEi5KzQ0/VzM=
+			</data>
+			<key>hash2</key>
+			<data>
+			WrGZtMRx4r/zxTSj1FtELTSFMcVx+6dn8gtl7FmIrtY=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/apple-pay@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B1iiKq7+9ErS1jTlr+qdzz7FM+0=
+			</data>
+			<key>hash2</key>
+			<data>
+			CEJ5CZ9JWLNwEnes0oJCZ66oJkUZK+SP94EEgFEGRnA=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/apple-pay@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AdTu4hrg7sqwHzdBqfnar4ysKe0=
+			</data>
+			<key>hash2</key>
+			<data>
+			h/ws4STtJg4hD+Fj1r3VOvztn5QW7pwytk5/Hge+FY0=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/appleBindBg@2x.png</key>
@@ -3128,6 +3445,17 @@
 			<key>hash2</key>
 			<data>
 			VNFcECQ65mkqvEsEVJX1prlFUWwVQ5cp4Vzimubk41k=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/apple_2021_04_04@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Az9g3aRVcmdE8wGaucK4X0Omagc=
+			</data>
+			<key>hash2</key>
+			<data>
+			LahOqqsTsGpy7KIVfSnLHHfCtr5snWfXiXxVxsoeJyw=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/apple_2021_04_04@3x.png</key>
@@ -3416,6 +3744,17 @@
 			<key>hash2</key>
 			<data>
 			AVBXKY9VInexuEmlEw734E8hAz8yWPISmu/WNDuE3wg=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/checkmark@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4gY/rcsjBfC6CvL3w69+JLxCAv0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ij5YFLE+RxSj9ZLnHkOARNGMR43NoMYmN47xgsqLRqc=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/closeAlter.png</key>
@@ -3930,33 +4269,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TAnimRnOgyo/0gxfDjI37ahbJWk=
+			9iTelcZKz3HYF8QqHVwKv31mfmk=
 			</data>
 			<key>hash2</key>
 			<data>
-			dIM96x9e46ku3Kmyw17CTd6Y/J2DyddJhs9VUBr9EyE=
+			ZlEjVU3hF7JhhxLJBWdQxKycbOK+Q6kvcaQGn/d8870=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/google_icon_small@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XRwDUpygB6Pjh4SwlN4Ssmbz1iY=
+			6OHzmzX3cQHHjUgA8Y5LhFCXt54=
 			</data>
 			<key>hash2</key>
 			<data>
-			rM95UfdCPRIeUFG2OAhvbqjIC9r1R65H9FgJHPn/w5w=
+			s/7zHdxX2JPfqCvA4TCoroDbSyfWg2D4+Gcipa7lHvI=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/google_icon_small@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DNf9gQW/XgaFTGhPpUnNd2/eGOQ=
+			UNq/2g/boGWlGRIEVyMmXx5QXOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4JIi9ncRiYJ2VU+eJ8GIgXmVubdB9NwzgsXNGtg8o9o=
+			zs6fGp6foqRZdQlUv71RiZ03enrNmMyFBF8XVkLQ1eM=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/green_bg.png</key>
@@ -4034,6 +4373,17 @@
 			<key>hash2</key>
 			<data>
 			9UOmA7pzCTrQ4x5GgmPj8Y3ISgbkwZ1GgRSR5+0/MwQ=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/leftArrow@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xjel8sD0YHGUiyiKBBFeKZAyTq8=
+			</data>
+			<key>hash2</key>
+			<data>
+			5XGEe7+qE9XeU2bpaqiFAcZ3phGrmpo4vSXPDyb7rPs=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/leftArrow@3x.png</key>
@@ -4443,6 +4793,28 @@
 			r9vPyDr037TdUyvbPjXHdtdLUpw1nUTv7vKbd+Y3w70=
 			</data>
 		</dict>
+		<key>LinKingOASDKBundle.bundle/topTitleBg@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MIXVZjkTFryLob4d6x1PNfmIN1U=
+			</data>
+			<key>hash2</key>
+			<data>
+			BL4MQqVrRtJgL74P/ulX+ecP6w3QNHOK05Kn103saIs=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/tourists.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/7Xi5D+GkaNXP8zxsjhbRQ0pfio=
+			</data>
+			<key>hash2</key>
+			<data>
+			sqz5EJnaX+L88wgrIX9U+1JIN53yszBuBbMumG4u0cU=
+			</data>
+		</dict>
 		<key>LinKingOASDKBundle.bundle/tourists@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -4452,6 +4824,17 @@
 			<key>hash2</key>
 			<data>
 			2CSh2YolMinkPaThiDJz99QURNSuvJDJLf2v5f5xHeM=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/tourists@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EE9JiCRq7Hc/H5sZ7uMaOfAKq+U=
+			</data>
+			<key>hash2</key>
+			<data>
+			VYT/MAmIP2Bnarm0myf6dU2ncyYVbTkiyXgbsBrFpdI=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/ver_code.png</key>
@@ -4485,6 +4868,17 @@
 			<key>hash2</key>
 			<data>
 			sKsZLIrz6ECV3dMa1MIXHAbon4Pm5yyfrq5HA7sXsuE=
+			</data>
+		</dict>
+		<key>LinKingOASDKBundle.bundle/yellow_bg.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rekuuIXVwFjzmKOFMXCYGw6uR4U=
+			</data>
+			<key>hash2</key>
+			<data>
+			YwZJx1c9wLAwxGzv4TkLpd9+YpPdrDbUbvqfqQlAjWQ=
 			</data>
 		</dict>
 		<key>LinKingOASDKBundle.bundle/yellow_bg@2x.png</key>
