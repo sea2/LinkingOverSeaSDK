@@ -24,9 +24,17 @@
 		<data>
 		O7EnTA1mr+q9lq0ZZW2UJvNkQcg=
 		</data>
-		<key>LEChangeView.nib</key>
+		<key>LEChangPayView.nib</key>
 		<data>
-		TMedBwfUKhDt3uBlEsPTkbcB4ik=
+		ekf/O9b1zGkL666nvavjCjY6EdI=
+		</data>
+		<key>LEChangeView.nib/objects-11.0+.nib</key>
+		<data>
+		mxZBJ7vQH+PoBllWehEsdBtdYPM=
+		</data>
+		<key>LEChangeView.nib/runtime.nib</key>
+		<data>
+		rHmhY0vWUwHP4kXxfUczDX6i6Ik=
 		</data>
 		<key>LELoginView.nib/objects-11.0+.nib</key>
 		<data>
@@ -46,11 +54,11 @@
 		</data>
 		<key>LEMorePayView.nib/objects-11.0+.nib</key>
 		<data>
-		76siLFvyvk8JXF4/eGlxjpkFf/I=
+		fQmjnGnA+hvXvXTIO4g/3uZZvu4=
 		</data>
 		<key>LEMorePayView.nib/runtime.nib</key>
 		<data>
-		utHSA2nZOSozfKoMCYtfY9ZzdQk=
+		vIxk765OtSu2jvk1kkvaFZGIpfE=
 		</data>
 		<key>LEOABindEmailView.nib/objects-11.0+.nib</key>
 		<data>
@@ -100,6 +108,14 @@
 		<data>
 		tP1+cSejHDG6gbk88wo5fwCyvk4=
 		</data>
+		<key>LEView.nib/objects-11.0+.nib</key>
+		<data>
+		QV02kWJQrYtXzEaoa/AM4ky4p7A=
+		</data>
+		<key>LEView.nib/runtime.nib</key>
+		<data>
+		ugfkIXs6kPPIMl/W+QzQyf9hlyo=
+		</data>
 		<key>Paypal.png</key>
 		<data>
 		cInzuARBM4oXVNfYkWoQ09K8Txw=
@@ -111,10 +127,6 @@
 		<key>Paypal@3x.png</key>
 		<data>
 		ku9lLiJKz+3ERtwxnDSFuTbLKug=
-		</data>
-		<key>View.nib</key>
-		<data>
-		Gi6ud7lSmxB2zuTE4Is3DG7paE4=
 		</data>
 		<key>apple-pay.png</key>
 		<data>
@@ -703,15 +715,37 @@
 			dd/feQi7OS7TZrfHrr6xLvgSrHgObtyi+vbu/G8bOcc=
 			</data>
 		</dict>
-		<key>LEChangeView.nib</key>
+		<key>LEChangPayView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TMedBwfUKhDt3uBlEsPTkbcB4ik=
+			ekf/O9b1zGkL666nvavjCjY6EdI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YsyjiWiZIkDWVvYCRXB6TkQ5UPz7ikcwppKE8esp/QA=
+			AXUcj0ArXIaaI5YDPOpe/yUlZfLd+X/7ZW6hsFJBsSI=
+			</data>
+		</dict>
+		<key>LEChangeView.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mxZBJ7vQH+PoBllWehEsdBtdYPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			fMVpqTF3pkDqHHp6tyvp3mQhsO7+bq1wiWFJ8U+tLq4=
+			</data>
+		</dict>
+		<key>LEChangeView.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rHmhY0vWUwHP4kXxfUczDX6i6Ik=
+			</data>
+			<key>hash2</key>
+			<data>
+			/xWU5mMYrUrpGabjbwpMrOK/RLsqkY9Ui958v5Fy6kE=
 			</data>
 		</dict>
 		<key>LELoginView.nib/objects-11.0+.nib</key>
@@ -762,22 +796,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			76siLFvyvk8JXF4/eGlxjpkFf/I=
+			fQmjnGnA+hvXvXTIO4g/3uZZvu4=
 			</data>
 			<key>hash2</key>
 			<data>
-			+twjcG61SeLLmgtcVGso9PBBa/Ehh1O1xOn5JBL3vWc=
+			qIfD8QCsJV5D4xGIpcxPpJOQwn7CmR+EgxgloVsrLCY=
 			</data>
 		</dict>
 		<key>LEMorePayView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			utHSA2nZOSozfKoMCYtfY9ZzdQk=
+			vIxk765OtSu2jvk1kkvaFZGIpfE=
 			</data>
 			<key>hash2</key>
 			<data>
-			oJOJkV4/N92+f4iDRiTbWbpsmgAQ7ey5v188bIYhVDc=
+			ownChlEXDNH0Q0emllqQjxvjoS+8BlsysYtAkRmHmPY=
 			</data>
 		</dict>
 		<key>LEOABindEmailView.nib/objects-11.0+.nib</key>
@@ -912,6 +946,28 @@
 			EqSf6daqauxeCVBxnK6iGPmtg7VJ1fG0YFV/Pw5qZec=
 			</data>
 		</dict>
+		<key>LEView.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QV02kWJQrYtXzEaoa/AM4ky4p7A=
+			</data>
+			<key>hash2</key>
+			<data>
+			qHFnPoodN/jJwC5iKZxtt0LngqsVoe0gyLTOmNJ6wps=
+			</data>
+		</dict>
+		<key>LEView.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ugfkIXs6kPPIMl/W+QzQyf9hlyo=
+			</data>
+			<key>hash2</key>
+			<data>
+			0/Cw1yYto//bN7BPw8s1RU4ndi03bnJ9pbqNheKNEFk=
+			</data>
+		</dict>
 		<key>Paypal.png</key>
 		<dict>
 			<key>hash</key>
@@ -943,17 +999,6 @@
 			<key>hash2</key>
 			<data>
 			hYVua7XQByG6PCGAmM0hANgwWRyLvNdj+LEtDuKtYFk=
-			</data>
-		</dict>
-		<key>View.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Gi6ud7lSmxB2zuTE4Is3DG7paE4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ck8+9VKQUio3PuzoHSMmeDJkOz6QsPc98JTZ1fsHYq8=
 			</data>
 		</dict>
 		<key>apple-pay.png</key>
